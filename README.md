@@ -1,7 +1,7 @@
 # Absenteeism At Work Analysis
 
 ## The Goal: 
-### Applying regression models to understand various features that may contribute in predicting the total hours people being absent from work.
+### To predict the total hours people are absent by applying regression models to better understand underlying variables.
 
 ## About the data set and the analysis: 
 The data set was created with records of absenteeism at work from July 2007 to July 2010 at a courier company in Brazil. The creators, original owner and donors are: Andrea Martiniano (1), Ricardo Pinto Ferreira (2), and Renato Jose Sassi (3).
